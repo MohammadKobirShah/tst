@@ -4080,3 +4080,6 @@ http://port.denver1769.in/oplx2.php?tv=356098
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu Naaptol" tvg-logo="" group-title="INDIAN ALL",Telugu Naaptol
 http://port.denver1769.in/oplx2.php?tv=356099
+
+#EXTINF:-1 tvg-id="" tvg-name="Telugu Naaptol" tvg-logo="" group-title="tst",tst
+https://github.com/MohammadKobirShah/tst/raw/refs/heads/main/1227_2.m3u8
